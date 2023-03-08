@@ -1,0 +1,28 @@
+body{
+    margin: 30px;
+    background-color:  #FFF5EE;
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    text-align: center;
+    color:  #F88379;
+}
+aside{
+    float: left;
+    padding-left: 40px;
+    padding-right: 40px;
+    height: 4200px;
+}
+article{
+    text-align: center;
+}
+h2{
+    color:#F88379
+}
+ul{
+    list-style: none;
+}
+footer{
+    font-size: large;
+    text-align: center;
+}
